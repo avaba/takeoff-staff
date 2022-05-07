@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sergey Igolyshkov",
+      "email": "sergey@mail.ru",
+      "password": "1234qwer"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "Sergey",
+      "lastName": "Igolyshkov",
+      "position": "Frontend developer",
+      "email": "sergey@mail.ru",
+      "phone": "+79189999998"
+    },
+    {
+      "id": 2,
+      "firstName": "Artem",
+      "lastName": "Popov",
+      "position": "Backend developer",
+      "email": "artem@mail.ru",
+      "phone": "+79187777718"
+    },
+    {
+      "id": 3,
+      "firstName": "Mark",
+      "lastName": "Ivanov",
+      "position": "Designer",
+      "email": "mark@mail.ru",
+      "phone": "+79186666668"
+    },
+    {
+      "id": 4,
+      "firstName": "Svetlana",
+      "lastName": "Kozlova",
+      "position": "Team lead",
+      "email": "sveta@mail.ru",
+      "phone": "+79184444448"
+    },
+    {
+      "id": 5,
+      "firstName": "Petr",
+      "lastName": "Petrov",
+      "position": "Manager",
+      "email": "sveta@mail.ru",
+      "phone": "+79181111118"
+    },
+    {
+      "firstName": "Сергей",
+      "lastName": "Igolyshkov",
+      "position": "Test",
+      "email": "igolyshkov1994@gmail.com",
+      "phone": "89189449448",
+      "id": 6
+    }
+  ]
+}
