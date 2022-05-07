@@ -9,14 +9,6 @@
   ],
   "contacts": [
     {
-      "id": 1,
-      "firstName": "Sergey",
-      "lastName": "Igolyshkov",
-      "position": "Frontend developer",
-      "email": "sergey@mail.ru",
-      "phone": "+79189999998"
-    },
-    {
       "id": 2,
       "firstName": "Artem",
       "lastName": "Popov",
