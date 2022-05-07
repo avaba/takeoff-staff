@@ -47,14 +47,6 @@
       "position": "Manager",
       "email": "sveta@mail.ru",
       "phone": "+79181111118"
-    },
-    {
-      "firstName": "Сергей",
-      "lastName": "Igolyshkov",
-      "position": "Test",
-      "email": "igolyshkov1994@gmail.com",
-      "phone": "89189449448",
-      "id": 6
     }
   ]
 }
